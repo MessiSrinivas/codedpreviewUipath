@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VPc0ZqPowkSQ3-rNIc3wWw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://adactinhotelapp.com/SearchHotel.php" DesignTimeRectangle="164, 494, 253, 31" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'30/01/2024'" FullSelectorArgument="&lt;webctrl tag='TABLE' class='login' parentid='search_form' /&gt;&lt;webctrl id='datepick_in' tag='INPUT' class='date_pick' name='datepick_in' parentid='search_form' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' class='login' parentid='search_form' /&gt;&lt;webctrl id='datepick_in' tag='INPUT' class='date_pick' name='datepick_in' parentid='search_form' type='text' aaname='' /&gt;" Guid="6b202b49-7269-4f0c-b119-d8f5e1d923f1" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Adactin.com - Search Hotel' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="8, 492, 154, 35" FriendlyName="'Check In Date*'" FullSelectorArgument="&lt;webctrl tag='TABLE' class='login' parentid='search_form' /&gt;&lt;webctrl tag='TD' aaname='Check In Date ' innertext='Check In Date* ' visibleinnertext='Check In Date* ' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' class='login' parentid='search_form' /&gt;&lt;webctrl tag='TD' aaname='Check In Date ' innertext='Check In Date* ' visibleinnertext='Check In Date* ' type='' class='' check:text='Check In Date*' /&gt;" ImageBase64="" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

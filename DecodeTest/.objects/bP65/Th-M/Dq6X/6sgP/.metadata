@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Hotel Sunshine",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "6sgPr13RIUCK8LMZhNrAFQ",
+  "Reference": "oA2dWYw2E0Gbma8QZGuzFQ/6sgPr13RIUCK8LMZhNrAFQ",
+  "ParentRef": "oA2dWYw2E0Gbma8QZGuzFQ/Dq6XhvGZbkO20SBx-9ls3Q",
+  "Created": "2024-01-30T11:14:47.1452635Z",
+  "Updated": "2024-01-30T11:14:47.1452635Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jk2STSfZAEqffvi-x14OgQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://adactinhotelapp.com/SearchHotel.php" DesignTimeRectangle="164, 564, 250, 25" DesignTimeScaleFactor="1" ElementType="DropDown" FriendlyName="'1 - One'" FullSelectorArgument="&lt;webctrl tag='TABLE' idx='*' /&gt;&lt;webctrl id='adult_room' tag='SELECT' class='search_combobox' name='adult_room' rowName='Adults per Room* ' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='adult_room' tag='SELECT' class='search_combobox' name='adult_room' rowName='Adults per Room* ' type='' aaname='' /&gt;" Guid="b78b789e-1a5d-4ec5-9aeb-f227a787e8c6" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Adactin.com - Search Hotel' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="8, 562, 154, 29" FriendlyName="'Adults per Room*'" FullSelectorArgument="&lt;webctrl tag='TABLE' class='login' /&gt;&lt;webctrl tag='TD' aaname='Adults per Room ' innertext='Adults per Room* ' visibleinnertext='Adults per Room* ' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' class='login' /&gt;&lt;webctrl tag='TD' aaname='Adults per Room ' innertext='Adults per Room* ' visibleinnertext='Adults per Room* ' type='' class='' check:text='Adults per Room*' /&gt;" ImageBase64="" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

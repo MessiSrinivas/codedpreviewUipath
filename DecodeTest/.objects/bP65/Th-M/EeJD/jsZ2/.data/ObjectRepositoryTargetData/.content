@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pNZYXP_obEyep1Kg6YCVlg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://adactinhotelapp.com/SearchHotel.php" DesignTimeRectangle="164, 407, 250, 25" DesignTimeScaleFactor="1" ElementType="DropDown" FriendlyName="'- Select Hotel -'" FullSelectorArgument="&lt;webctrl tag='TABLE' class='login' /&gt;&lt;webctrl id='hotels' tag='SELECT' class='search_combobox' name='hotels' parentid='search_form' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' class='login' /&gt;&lt;webctrl id='hotels' tag='SELECT' class='search_combobox' name='hotels' parentid='search_form' type='' aaname='' /&gt;" Guid="ff384d94-2220-453b-a7ba-d6652c9bef38" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Adactin.com - Search Hotel' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="8, 405, 154, 29" ElementType="Text" FriendlyName="'Hotels'" FullSelectorArgument="&lt;webctrl tag='TABLE' class='login' parentid='search_form' /&gt;&lt;webctrl tag='TD' aaname='Hotels ' innertext='Hotels ' visibleinnertext='Hotels ' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' class='login' parentid='search_form' /&gt;&lt;webctrl tag='TD' aaname='Hotels ' innertext='Hotels ' visibleinnertext='Hotels ' type='' class='' check:text='Hotels' /&gt;" ImageBase64="" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
