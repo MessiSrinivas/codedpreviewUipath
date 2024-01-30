@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="qGoDoeP5DkeGHE1YM9l_Jw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://adactinhotelapp.com/SelectHotel.php" DesignTimeRectangle="123, 489, 174, 18" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'Hotel Sunshine'" FullSelectorArgument="&lt;webctrl tag='TABLE' colName='Select Hotel ' /&gt;&lt;webctrl tag='INPUT' class='select_text' colName='Hotel Name' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' colName='Select Hotel ' /&gt;&lt;webctrl tag='INPUT' class='select_text' colName='Hotel Name' type='text' aaname='' /&gt;" Guid="1f9e300c-f0cd-4dbc-8c42-8d95868217a3" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Adactin.com - Select Hotel' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive" />
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

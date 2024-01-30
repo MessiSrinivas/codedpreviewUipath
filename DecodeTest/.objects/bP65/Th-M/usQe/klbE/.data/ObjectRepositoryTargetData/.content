@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="J0XNVGO_zk-sgV3J0iOCzg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://adactinhotelapp.com/" DesignTimeRectangle="1306, 409, 100, 30" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Login'" FullSelectorArgument="&lt;webctrl parentid='login_form' tag='TABLE' class='login' /&gt;&lt;webctrl id='login' tag='INPUT' aaname='Login' class='login_button' type='Submit' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='login_form' tag='TABLE' class='login' /&gt;&lt;webctrl id='login' tag='INPUT' aaname='Login' class='login_button' type='Submit' check:text='Login' /&gt;" Guid="01f701c0-d76a-4458-9700-02835b4dca1c" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Adactin.com - Hotel Reservation System' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive" />
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>
