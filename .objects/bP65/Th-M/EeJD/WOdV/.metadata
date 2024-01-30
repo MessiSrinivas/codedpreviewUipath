@@ -1,0 +1,13 @@
+﻿{
+  "Name": "CheckoutDate",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "WOdVbmG-DEKm0CPHTYX24A",
+  "Reference": "oA2dWYw2E0Gbma8QZGuzFQ/WOdVbmG-DEKm0CPHTYX24A",
+  "ParentRef": "oA2dWYw2E0Gbma8QZGuzFQ/EeJDdUzEj0KPkByHNZQgQQ",
+  "Created": "2024-01-30T10:58:07.8652181Z",
+  "Updated": "2024-01-30T10:58:07.8652181Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

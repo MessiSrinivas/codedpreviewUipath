@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KLKG-n94wUKlwWuvgC4K9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://adactinhotelapp.com/SearchHotel.php" DesignTimeRectangle="164, 632, 100, 30" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Search'" FullSelectorArgument="&lt;webctrl tag='TABLE' class='login' /&gt;&lt;webctrl id='Submit' tag='INPUT' aaname='Search' class='reg_button' name='Submit' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' class='login' /&gt;&lt;webctrl id='Submit' tag='INPUT' aaname='Search' class='reg_button' name='Submit' type='submit' check:text='Search' /&gt;" Guid="dcd1cf54-7304-403f-a238-11bbc2e17d31" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Adactin.com - Search Hotel' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

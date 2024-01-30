@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VTirvm7sZE-3TQwa6LDr1Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://adactinhotelapp.com/SelectHotel.php" DesignTimeRectangle="774, 525, 100, 30" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Cancel'" FullSelectorArgument="&lt;webctrl tag='TABLE' parentid='select_form' idx='*' /&gt;&lt;webctrl id='cancel' tag='INPUT' aaname='Cancel' class='reg_button' name='cancel' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' parentid='select_form' /&gt;&lt;webctrl id='cancel' tag='INPUT' aaname='Cancel' class='reg_button' name='cancel' type='button' check:text='Cancel' /&gt;" Guid="f60ec792-d07a-458e-917e-6e8f6d301567" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Adactin.com - Select Hotel' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
